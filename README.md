@@ -20,17 +20,17 @@ Spring Boot个人博客demo
 
 **博客展示界面**
 
-![1589158233577](C:\Users\89860\AppData\Roaming\Typora\typora-user-images\1589158233577.png)
+![](img/1589158233577.png)
 
-![1589158281334](C:\Users\89860\AppData\Roaming\Typora\typora-user-images\1589158281334.png)
+![](img/1589158281334.png)
 
-!1589158316551](C:\Users\89860\AppData\Roaming\Typora\typora-user-images\1589158316551.png)
+![](img/1589158316551.png)
 
-![1589158354624](C:\Users\89860\AppData\Roaming\Typora\typora-user-images\1589158354624.png)
+![](img/1589158354624.png)
 
 **后台管理界面**
 
-![1589158400587](C:\Users\89860\AppData\Roaming\Typora\typora-user-images\1589158400587.png)
+![](img/1589158400587.png)
 
-![1589158421253](C:\Users\89860\AppData\Roaming\Typora\typora-user-images\1589158421253.png)
+![](img/1589158421253.png)
 
