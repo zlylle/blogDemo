@@ -4,9 +4,7 @@ Spring Boot个人博客demo
 
 **把持久层JPA修改为了mybatis**，前端页面是直接导入的模板
 
-功能：**前端展示 + 后台管理**
-
-**技术组合：**
+**用到的技术：**
 
 - 后端：Spring Boot + mybatis
 - 数据库：MySQL
